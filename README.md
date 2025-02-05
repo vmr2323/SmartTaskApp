@@ -2,8 +2,6 @@
 SmartTaskApp is a task management app built with React and Tailwind CSS. It allows users to add, complete, and delete tasks with an intuitive and responsive UI. This project demonstrates my frontend skills in building modern web applications.
 # To-Do List App 🚀
 
-This is a simple **To-Do List** web application built with **React** and **Tailwind CSS**. It allows users to add tasks, mark them as complete, and delete them. This project showcases some of my frontend development skills and serves as a foundation for experimenting with different web technologies.
-
 ## 🔹 Features
 - Add new tasks
 - Mark tasks as complete
